@@ -3,3 +3,4 @@ uvicorn[standard]
 face-recognition
 opencv-python-headless
 numpy
+
